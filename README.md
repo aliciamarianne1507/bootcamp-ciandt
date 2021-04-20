@@ -123,6 +123,7 @@ After that, you choose the folder where your project will be, and the project wi
 In your terminal, you should input:
 
 -groupId: com."as_your_wish"
+
 -artifactId: "the name of your project"
 
-And that is, your project is created and you can start to write your tests. 
+And that is, your project is created and you can start to write your tests.
