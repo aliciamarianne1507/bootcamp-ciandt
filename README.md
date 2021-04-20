@@ -88,3 +88,39 @@ Using:
         })
     });
 ```
+
+## [REST Assured Tests](https://rest-assured.io/)
+
+The tests in REST Assured was done by me.
+
+### Requiremnts REST Assured
+
+You'll need to have installed in your machine:
+- Java JDK
+- Maven
+- VS Code extensions:
+    - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+    - [code-groovy](https://marketplace.visualstudio.com/items?itemName=marlon407.code-groovy)
+
+#### Creating a project Maven:
+
+First, verify your Maven version:
+
+```
+    mvn -v or mvn --version
+```
+If you don't have Maven in you machine, you can install it in: [Maven website](https://maven.apache.org/download.cgi)
+
+After install Maven and the extensions in your VS Code, to create an Maven Project, you should:
+
+1 - Press Ctrl+Shift+P and type: Create an Maven Project
+2- The archetype "maven-archetype-quickstart"
+3 - Version: The last one
+
+After that, you choose the folder where your project will be, and the project will start to be created.
+In your terminal, you should input:
+
+- groupId: com."as_your_wish"
+- artifactId: "the name of your project"
+
+And that is, your project is created and you can start to write your tests. 
