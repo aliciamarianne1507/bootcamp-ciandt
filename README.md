@@ -6,7 +6,7 @@ The challenge of this bootcamp, was automate tests from an application web and a
 
 ## [Cypress Tests](https://docs.cypress.io/)
 The tests in Cypress was done by the QAs that was participating of bootcamp.
-### Requiremnts Cypress
+### Requirements Cypress
 
 To use cypress is necessary to have install in your machine NodeJs and NPM.
 
@@ -93,7 +93,7 @@ Using:
 
 The tests in REST Assured was done by me.
 
-### Requiremnts REST Assured
+### Requirements REST Assured
 
 You'll need to have installed in your machine:
 - Java JDK
