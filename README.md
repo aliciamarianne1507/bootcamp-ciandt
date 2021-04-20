@@ -1,4 +1,4 @@
-# 🚀 QA AUTOMATION CAMP - CI&T 2021 🚀
+# 🚀 QA AUTOMATION BOOTCAMP - CI&T 2021 🚀
 
 ## The Challenge
 
