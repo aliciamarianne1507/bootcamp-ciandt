@@ -30,7 +30,7 @@ To use cypress is necessary to have install in your machine NodeJs and NPM.
 
 #### Windows install
 
-- NodeJs and NPM: acess the site of Node, and download the version LTS [NodeJS site](https://nodejs.org/en/)
+- NodeJs and NPM: acess the site of [NodeJS site](https://nodejs.org/en/), and download the version LTS 
 - Verifying the version of Node and npm:
 ```
     node -v or node --version
