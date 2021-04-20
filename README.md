@@ -113,14 +113,14 @@ If you don't have Maven in you machine, you can install it in: [Maven website](h
 
 After install Maven and the extensions in your VS Code, to create an Maven Project, you should:
 
-1 - Press Ctrl+Shift+P and type: Create an Maven Project
-2- The archetype "maven-archetype-quickstart"
-3 - Version: The last one
+1-Press Ctrl+Shift+P and type: Create an Maven Project
+2-The archetype "maven-archetype-quickstart"
+3-Version: The last one
 
 After that, you choose the folder where your project will be, and the project will start to be created.
 In your terminal, you should input:
 
-- groupId: com."as_your_wish"
-- artifactId: "the name of your project"
+-groupId: com."as_your_wish"
+-artifactId: "the name of your project"
 
 And that is, your project is created and you can start to write your tests. 
