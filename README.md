@@ -2,10 +2,10 @@
 
 ## The Challenge
 
-The challenge of this camp, was automate tests from an application web and an REST API.
+The challenge of this bootcamp, was automate tests from an application web and an REST API.
 
 ## [Cypress Tests](https://docs.cypress.io/)
-The tests in Cypress was done by the QAs that was participating of camp.
+The tests in Cypress was done by the QAs that was participating of bootcamp.
 ### Requiremnts Cypress
 
 To use cypress is necessary to have install in your machine NodeJs and NPM.
