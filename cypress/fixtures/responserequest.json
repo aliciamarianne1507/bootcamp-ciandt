@@ -1,0 +1,38 @@
+{
+    "valid":{
+        "data": null,
+        "messages": [
+            "Um brinde. Sua avaliação foi adicionada com sucesso."
+        ]
+    },
+    "invalid":{
+        "data": null,
+        "messages": [
+            "Não foi encontrado registros para a cervejaria informada."
+        ]
+    },
+    "email_already_used":{
+        "data": null,
+        "messages": [
+            "Você já avaliou essa cervejaria."
+        ]
+    },
+    "email_invalid":{
+        "data": null,
+        "messages": [
+            "Por favor inserir um email válido."
+        ]
+    },
+    "brewery_id_invalid":{
+        "data": null,
+        "messages": [
+            "Não foi encontrado registros para a cervejaria informada."
+        ]
+    },
+    "value_invalid":{
+        "data": null,
+        "messages": [
+            "O valor da avaliação deve estar entre 1 e 5."
+        ]
+    }
+}
