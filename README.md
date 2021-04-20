@@ -42,7 +42,7 @@ To use cypress is necessary to have install in your machine NodeJs and NPM.
 	npm install cypress --dev
 	npx cypress open
 ```
-#### Fixtures 
+#### [Fixtures](https://docs.cypress.io/api/commands/fixture#Arguments)
 
 The command "Fixtures" of cypress was used to get data from a json file and this data was used in Requests.
 ```
@@ -64,7 +64,7 @@ The command "Fixtures" of cypress was used to get data from a json file and this
     });
 ```
 
-#### Commands
+#### [Commands](https://docs.cypress.io/api/cypress-api/custom-commands)
 The file [commands.js](https://github.com/aliciamarianne1507/bootcamp-ciandt/blob/master/cypress/support/commands.js) was used to create commands in cypress, functions, that we could called them and used in our tests.
 
 ```
