@@ -14,12 +14,12 @@ To use cypress is necessary to have install in your machine NodeJs and NPM.
 
 - NodeJS and NPM
 ```
- sudo apt install nodejs
+    sudo apt install nodejs
 ```
 - Verifying the version of Node and npm:
 ```
- node -v or node --version
- npm -v or npm --version
+    node -v or node --version
+    npm -v or npm --version
 ```
 - Install and execute Cypress:
 ```
@@ -33,8 +33,8 @@ To use cypress is necessary to have install in your machine NodeJs and NPM.
 - NodeJs and NPM: acess the site of Node, and download the version LTS ![NodeJS site](https://nodejs.org/en/)
 - Verifying the version of Node and npm:
 ```
- node -v or node --version
- npm -v or npm --version
+    node -v or node --version
+    npm -v or npm --version
 ```
 - Install and execute Cypress:
 ```
