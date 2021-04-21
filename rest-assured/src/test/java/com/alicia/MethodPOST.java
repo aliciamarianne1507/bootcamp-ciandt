@@ -9,9 +9,9 @@ import io.restassured.http.ContentType;
 
 
 /**
- * Unit test for simple App.
+ * Testes de BackEnd - Método POST
  */
-public class PostTests{
+public class MethodPOST{
     @Test
     public void body_request_empty(){
         given()
@@ -116,6 +116,39 @@ public class PostTests{
             .statusCode(400)
             .extract().path("messages")
             .equals("[O valor da avaliação deve estar entre 1 e 5.]");
+    }
+    @Test
+    public void method_invalid_put(){
+            given()
+                .baseUri("http://52.175.253.71:8080")
+            .when().
+                put("/brewery/rate")
+            .then()
+                .statusCode(405)
+                .extract().path("error")
+                .equals("Not Found");
+    }
+    @Test
+    public void method_invalid_get(){
+            given()
+                .baseUri("http://52.175.253.71:8080")
+            .when().
+                put("/brewery/rate")
+            .then()
+                .statusCode(405)
+                .extract().path("error")
+                .equals("Not Found");
+    }
+    @Test
+    public void method_invalid_delete(){
+            given()
+                .baseUri("http://52.175.253.71:8080")
+            .when().
+                put("/brewery/rate")
+            .then()
+                .statusCode(405)
+                .extract().path("error")
+                .equals("Not Found");
     }
 
 }
